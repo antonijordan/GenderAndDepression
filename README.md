@@ -5,10 +5,7 @@ Each statistical method was tailored towards the research questions and the cont
 
 The code contains the following:
 
-================================================================================
-  Linguistic Markers of Depression — Full Analysis Pipeline
-================================================================================
-  Research Questions:
+ Research Questions:
     RQ1: Do depressed and non-depressed people differ in marker use?
     RQ2: Do depressed men and women differ in marker use?
 
@@ -21,4 +18,4 @@ The code contains the following:
     5. RQ2 — MANOVA + follow-up ANOVAs (depressed participants only)
     6. Logistic Regression (per gender + full sample)
     7. Radar Chart (group profiles)
-================================================================================
+
